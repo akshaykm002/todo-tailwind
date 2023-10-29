@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+  background: #855bef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-input::placeholder {
+  color: #ffffff4d;
+}
+
+
+
+
+
+
+
+
+
+
+ 
